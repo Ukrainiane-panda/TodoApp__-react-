@@ -5,9 +5,6 @@ Implemented a [TodoMVC application](https://todomvc.com/) using TypeScript and R
 [DEMO LINK](https://ukrainiane-panda.github.io/TodoApp__-react-/) 🌟
 
 ### Features:
-**To-Do List App Readme**
-
-Features:
 - Add a new task:
   - Type the task in the input field and press Enter or click the "Add" button.
 - Mark a task as completed or active:
