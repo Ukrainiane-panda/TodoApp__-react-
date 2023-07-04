@@ -4,7 +4,7 @@ Implemented a [TodoMVC application](https://todomvc.com/) using TypeScript and R
 
 [DEMO LINK](https://ukrainiane-panda.github.io/TodoApp__-react-/) 🌟
 
-Features
+*** Features
 Add new tasks to the todo list.
 Mark tasks as completed or active.
 Delete tasks from the todo list.
